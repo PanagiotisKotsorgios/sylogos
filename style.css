@@ -44,7 +44,7 @@ header{position:sticky;top:0;z-index:100;background:rgba(255,253,249,.92);backdr
   inset:0;
   background:
     linear-gradient(rgba(8,26,38,.78),rgba(8,26,38,.78)),
-    url("https://github.com/PanagiotisKotsorgios/sylogos/blob/main/assets/_DSC6066.jpg") center/cover;
+    url("assets/_DSC6066.jpg") center/cover;
 }.hero-inner{position:relative;color:#fff;padding:90px 0 100px;max-width:780px}
 .kicker{display:inline-flex;align-items:center;gap:9px;color:#f1d8a6;text-transform:uppercase;letter-spacing:.16em;font-size:.76rem;font-weight:800}
 .kicker:before{content:"";width:28px;height:2px;background:var(--gold)}
